@@ -1,7 +1,7 @@
 # instagram-reddit-bot
 This is a little script I made for fun to see if I could automate an Instagram meme account.
 ## What It Does
-- This script uses a Reddit API to visit a subreddit and download the latest posted photo to the included images dir.
+- This script uses a Reddit API to visit a subreddit and download the latest posted photo to the included `/images` dir.
 - It then starts up an Instagram client and logs in with specified credentials.
 - It appends a random selection from a pool of GPT-generated captions, and uploads the post.
 ## How to Use It
