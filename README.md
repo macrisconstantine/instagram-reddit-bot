@@ -6,7 +6,7 @@ This is a little script I made for fun to see if I could automate an Instagram m
 - It appends a random selection from a pool of GPT-generated captions, and uploads the post.
 ## How to Use It
 - Download or clone this repo.
-- To use the Reddit API, you will have to create a Reddit "app" (instructions for this can be found online--its very simple and easy).
+- To use the Reddit API, you will have to create a Reddit "app" (instructions for this can be found online--it's very simple and easy).
 - Once you have the necessary Reddit API credentials, replace the placeholders with your real Instagram and Reddit credentials in the `main.py` file.
 - Test the script by running manually.
 ### Optional: 
