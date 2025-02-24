@@ -1,5 +1,5 @@
 # instagram-reddit-bot
-This is a little script I made for fun to learn how to automate an Instagram meme account.
+This is a little script I made for fun to learn how to automate an Instagram meme account. Visit my YouTube channel to see how I did this.
 ## What It Does
 - This script uses a Reddit API to visit a subreddit and download the latest posted photo to the included `/images` dir.
 - It then starts up an Instagram client and logs in with specified credentials.
